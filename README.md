@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="AbonelikTakibi/Assets.xcassets/AppIcon.appiconset/AppIcon.png" width="128" alt="Abonelik Takip ikonu" style="border-radius: 28px;">
+<img src="[AbonelikTakibi/Assets.xcassets/AppIcon.appiconset/A.png](https://github.com/mugione/abonelik/blob/main/icon.png)" width="128" alt="Abonelik Takip ikonu" style="border-radius: 28px;">
 
 # Abonelik Takip
 
